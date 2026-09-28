@@ -1,0 +1,12 @@
+[
+  {
+    "username": "Xavichi",
+    "password": "contraseñaxd",
+    "rol": "Administrador"
+  },
+  {
+    "username": "DonCajero",
+    "password": "contraseñacajeroxd",
+    "rol": "Cajero"
+  }
+]

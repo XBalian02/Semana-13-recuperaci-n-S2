@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ramen de Cerdo",
+        "precio": 5.50,
+        "categoria": "Platos Fuertes",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Guatita",
+        "precio": 4.00,
+        "categoria": "Platos Típicos",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Agua de Hielo",
+        "precio": 1.50,
+        "categoria": "Bebidas",
+        "stock": 30
+    }
+]
