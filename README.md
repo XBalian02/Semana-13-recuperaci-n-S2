@@ -32,3 +32,6 @@ restaurante_app/
 
 USUARIO: Xavichi / DonCangero
 CONTRASEÑA: contraseñaxd
+
+##Gracias por la Recuperación##
+
